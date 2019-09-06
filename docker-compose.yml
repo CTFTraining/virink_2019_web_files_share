@@ -1,0 +1,10 @@
+version: "2"
+services:
+  web:
+    build: .
+    image: ctftraining/virink_2019_files_share
+    restart: always
+    environment:
+      - FLAG=flag{virink_2019_files_share}
+    ports:
+      - "127.0.0.1:8085:80"
