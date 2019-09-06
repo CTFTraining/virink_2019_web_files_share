@@ -17,7 +17,7 @@ Ginkgo Server is 666~
 
 ## 版权
 
-MIT(LICENSE)
+[MIT](LICENSE)
 
 ## Writeups
 
